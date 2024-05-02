@@ -1,0 +1,12 @@
+[
+    {
+        "ConfigFile": "server.json",
+        "ConfigType": "json",
+        "AutoMap": true
+    },
+    {
+        "ConfigFile": "gm/init.lua",
+        "ConfigType": "",
+        "AutoMap": false
+    }
+]
