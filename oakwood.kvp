@@ -1,8 +1,8 @@
 Meta.DisplayName=Oakwood
 Meta.Description=Oakwood
 Meta.Arch=x86_64
-Meta.Author=zak - Made with AMP Config Generator
-Meta.URL=
+Meta.Author=zpl-zak - Made with AMP Config Generator
+Meta.URL=https://www.bing.com/ck/a?!&&p=1161313b3e6bedefJmltdHM9MTcxNDYwODAwMCZpZ3VpZD0wNzg3NDUzMy02MDU3LTY1YzItMTg5Ny01MTQzNjFjZTY0ZjAmaW5zaWQ9NTI2Mw&ptn=3&ver=2&hsh=3&fclid=07874533-6057-65c2-1897-514361ce64f0&psq=mafia+the+city+of+lost+heaven&u=a1aHR0cHM6Ly9zdG9yZS5zdGVhbXBvd2VyZWQuY29tL2FwcC80MDk5MC9NYWZpYS8&ntb=1
 Meta.MinAMPVersion=2.4.6.6
 Meta.SpecificDockerImage=
 Meta.DockerRequired=False
