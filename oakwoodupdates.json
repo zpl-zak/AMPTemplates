@@ -1,1 +1,13 @@
-[]
+[
+    {
+        "UpdateStageName": "dl",
+        "UpdateSourcePlatform": "Windows",
+        "UpdateSource": "FetchURL",
+        "UpdateSourceData": "https://demo.v4k.dev/oakwood.zip",
+        "UpdateSourceTarget": "serverfiles",
+        "UnzipUpdateSource": true,
+        "OverwriteExistingFiles": true,
+        "DeleteAfterExtract": true,
+        "OneShot": false
+    }
+]
